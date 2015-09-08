@@ -56,7 +56,7 @@ public class SimpleEngine {
 
         });
 
-        printResults(index, fileNames);
+        //printResults(index, fileNames);
 
         // Implement the same program as in Homework 1: ask the user for a term,
         // retrieve the postings list for that term, and print the names of the 
